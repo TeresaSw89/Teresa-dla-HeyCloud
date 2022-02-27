@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## Cześć
 
-You can use the [editor on GitHub](https://github.com/TeresaSw89/Teresa-dla-HeyCloud/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Poniżej linki do moich dokumentów google; 
+niesety nie udało mi się wystawić ich łączac je z GitHub Pages - gdzieś robiłam błąd i strona nie ładowała się :/ 
+Pewnie jeszcze póżniej spróbuję, już sama dla siebie ;) 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TeresaSw89/Teresa-dla-HeyCloud/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+ [documentation](https://docs.google.com/spreadsheets/d/1z_X4LeZ8wdzTHseCGGrFV8zoPQil0su9Q9QYK192w2w/edit?pli=1#gid=0) oraz [zadanie bonus](https://docs.google.com/spreadsheets/d/1vV-YhjG8vU3N8holFEc-sgFnVWXbz13F5rpl1UWwezg/edit#gid=0)
